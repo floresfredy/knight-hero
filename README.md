@@ -1,1 +1,1 @@
-# Realizado por freddy flores
+# Knight Hero - Juego desarrollado en unity 2D - USMP
